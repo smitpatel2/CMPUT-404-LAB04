@@ -1,0 +1,21 @@
+Q1: https://github.com/smitpatel2/CMPUT-404-LAB04
+
+Q2: Django "Welcome" page, which says "It worked!" and "Congratulations on your first Django-powered page."
+
+Q3. A "Page Not Found" error (HTTP 404), because there is no URL pattern defined that matches the root URL.
+
+Q4: Migration basically entails informing the database to migrate whatever updates we made to our code models within the real database.
+
+Q5: The basic Django administration interface, which displays a list of all installed Django apps and their corresponding models, will be displayed to you.
+
+Q6: Looking at question 38. 
+    Looking at the results of question 38. 
+    Voting on question 38. 
+
+    Since the path doesn't match, if you don't enter int, you'll receive a page not found error.
+    Use str rather than int.
+
+Q7: Because our paths may alter in the future. We can stop worrying about updating everything thanks to this.
+
+Q8: A generic view can help us save time when writing repeated code, such as when displaying models or lists. 
+    Generic views are not the best choice for situations where we need custom views.
